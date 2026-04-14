@@ -26,3 +26,22 @@ A modern and user-friendly **Contact Management System** developed using **Flask
 ---
 
 ## 📂 Project Structure
+contact_management_system/
+│
+├── app.py
+├── static/
+│ └── style.css
+├── templates/
+│ ├── base.html
+│ ├── index.html
+│ ├── add_contact.html
+│ └── edit_contact.html
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/contact-management-system.git
